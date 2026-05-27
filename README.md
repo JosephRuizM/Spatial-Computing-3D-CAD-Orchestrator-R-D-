@@ -168,4 +168,4 @@ Usa el código con precaución.[ HD Webcam Input ]│ (Raw Video Frames)▼[ Med
 ### Phase 4: CAD Export & Data Validation
 - [ ] Build the serialization layer to map Ursina vector coordinates to DXF entity nodes.
 - [ ] Write the JSON schema definition for custom architectural layout metadata storage.
-- [ ] Perform geometric stress tests (exporting 10,000+ vertices without data corr
+- [ ] Perform geometric stress tests (exporting 10,000+ vertices without data corruption).
